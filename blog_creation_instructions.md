@@ -22,3 +22,22 @@ cp -R ../pingSquare-LLC/.github .
 
 # compile the website
 hugo
+
+# push the site to the remote repository
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ping-square/ping-square-Blog.github.io.git
+git push -u origin main
+git status
+git add .
+git commit -m "moving 'pingsquare-Blog' folder to the remote repo"
+git push origin main
+rm README.md
+git status
+git add .
+git commit -m "removed README.md file"
+git push origin main
+
+# add a Subdomain in Github Pages
+echo "Blog.ping-square.com" >> CNAME
