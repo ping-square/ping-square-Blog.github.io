@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to use this Hugo theme ?</title>
+      <link>http://localhost:1313/post/2020/jan/use-this-theme/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020/jan/use-this-theme/</guid>
+      <description>&lt;p&gt;After downloding the theme, uzip the file and go to the &amp;rsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme.&#xA;To check the website you can run the below command,&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In the command prompt you can see that your website has started to build and it will normally available at &amp;lsquo;http://localhost:1313/&amp;rsquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build a Hugo Blog</title>
+      <link>http://localhost:1313/post/2020/jan/build-hugo-blog/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020/jan/build-hugo-blog/</guid>
+      <description>&lt;h3 id=&#34;hugo&#34;&gt;Hugo?&lt;/h3&gt;&#xA;&lt;p&gt;It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.&lt;/p&gt;&#xA;&lt;p&gt;First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/post/2020/jan/rich-content/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020/jan/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube privacy enhanced shortcode&lt;/h2&gt;&#xA;&lt;p&gt;The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;YouTube URL:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://www.youtube.com/watch?v=3qHkcs3kG44&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Shortcode:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Rendered output:&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3qHkcs3kG44?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Host in Netlify</title>
+      <link>http://localhost:1313/post/2020/jan/netlify-conf/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020/jan/netlify-conf/</guid>
+      <description>&lt;p&gt;You can host your static website wth zero cost in &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Add the below netlify.toml in the root folder.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;[build]&#xA;publish = &amp;quot;public&amp;quot;&#xA;command = &amp;quot;hugo --gc --minify&amp;quot;&#xA;&#xA;[context.production.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;HUGO_ENV = &amp;quot;production&amp;quot;&#xA;HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot;&#xA;&#xA;[context.split1]&#xA;command = &amp;quot;hugo --gc --minify --enableGitInfo&amp;quot;&#xA;&#xA;[context.split1.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;HUGO_ENV = &amp;quot;production&amp;quot;&#xA;&#xA;[context.deploy-preview]&#xA;command = &amp;quot;hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL&amp;quot;&#xA;&#xA;[context.deploy-preview.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;&#xA;[context.branch-deploy]&#xA;command = &amp;quot;hugo -b $DEPLOY_PRIME_URL&amp;quot;&#xA;&#xA;[context.branch-deploy.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;&#xA;[context.next.environment]&#xA;HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;And you can upload the public folder directly to Netlify or integrate your GitHub accout with Netlify to host your website.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layouts on My New Hugo Site</title>
+    <link>http://localhost:1313/layouts/</link>
+    <description>Recent content in Layouts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/layouts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/layouts/partials/footer_custom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/layouts/partials/footer_custom/</guid>
+      <description>&lt;!--&#xA;If you want to include any custom html just before &lt;/body&gt;, put it in this file.&#xA;Or you can delete these file if you don&#39;t need it.&#xA;--&gt;&#xA;&lt;!-- for example, you could include some js libraries:&#xA;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.js&#34; integrity=&#34;sha256-HdIuWBZj4eftihsoDCJoMYjZi6aNVaw7YlUpzKT3ZxI=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;&#xA;--&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/layouts/partials/head_custom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/layouts/partials/head_custom/</guid>
+      <description>&lt;!--&#xA;If you want to include any custom html just before &lt;/head&gt;, put it in this file.&#xA;Or you can delete these file if you don&#39;t need it.&#xA;--&gt;&#xA;&lt;!-- for example, you could insert this custom css, which makes the bigimg not stretch:&#xA;&lt;style&gt;&#xA;.intro-header.big-img, .intro-header.big-img  .big-img-transition {&#xA;  -webkit-background-size: contain !important;&#xA;  -moz-background-size: contain !important;&#xA;  background-size: contain !important;&#xA;  -o-background-size: contain !important;&#xA;  background-color: lightgrey;&#xA;}&#xA;&lt;/style&gt;&#xA;--&gt;&#xA;&lt;!-- or you could include some additional css libraries:&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.css&#34; integrity=&#34;sha256-I1UoFd33KHIydu88R9owFaQWzwkiZV4hXXug5aYaM28=&#34; crossorigin=&#34;anonymous&#34; /&gt;&#xA;--&gt;</description>
+    </item>
+  </channel>
+</rss>
