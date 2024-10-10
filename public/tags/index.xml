@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:52112/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52112/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Newsletter</title>
-      <link>http://localhost:52112/tags/newsletter/</link>
+      <link>https://example.org/tags/newsletter/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/newsletter/</guid>
+      <guid>https://example.org/tags/newsletter/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:52112/tags/blog/</link>
+      <link>https://example.org/tags/blog/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/blog/</guid>
+      <guid>https://example.org/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:52112/tags/hugo/</link>
+      <link>https://example.org/tags/hugo/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/hugo/</guid>
+      <guid>https://example.org/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:52112/tags/markdown/</link>
+      <link>https://example.org/tags/markdown/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/markdown/</guid>
+      <guid>https://example.org/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://localhost:52112/tags/syntax/</link>
+      <link>https://example.org/tags/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/syntax/</guid>
+      <guid>https://example.org/tags/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:52112/tags/shortcodes/</link>
+      <link>https://example.org/tags/shortcodes/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/shortcodes/</guid>
+      <guid>https://example.org/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Netlify</title>
-      <link>http://localhost:52112/tags/netlify/</link>
+      <link>https://example.org/tags/netlify/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/netlify/</guid>
+      <guid>https://example.org/tags/netlify/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoicism</title>
-      <link>http://localhost:52112/tags/stoicism/</link>
+      <link>https://example.org/tags/stoicism/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/tags/stoicism/</guid>
+      <guid>https://example.org/tags/stoicism/</guid>
       <description></description>
     </item>
   </channel>

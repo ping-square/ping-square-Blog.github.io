@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:52112/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52112/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collections No.1</title>
-      <link>http://localhost:52112/collections/2023/collections/</link>
+      <link>https://example.org/collections/2023/collections/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/collections/2023/collections/</guid>
+      <guid>https://example.org/collections/2023/collections/</guid>
       <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write blogs and tutorials and cheatsheets.&lt;/li&gt;&#xA;&lt;li&gt;Speak at meetups and conferences.&lt;/li&gt;&#xA;&lt;li&gt;Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.&lt;/li&gt;&#xA;&lt;li&gt;Make Youtube videos or Twitch streams.&lt;/li&gt;&#xA;&lt;li&gt;Start a newsletter.&lt;/li&gt;&#xA;&lt;li&gt;Draw cartoons. &lt;br&gt;&#xA;&lt;a href=&#34;https://www.swyx.io/learn-in-public/&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;make-free-stuff&#34;&gt;Make Free Stuff&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The best growth hack is still to build something people enjoy, then attaching no strings to it. You’d be surprised how far that can get you.&lt;br&gt;&#xA;Make free stuff! The web is still for everyone.&lt;br&gt;&#xA;&lt;a href=&#34;https://mxb.dev/blog/make-free-stuff/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collections No.2</title>
-      <link>http://localhost:52112/collections/2023/collections2/</link>
+      <link>https://example.org/collections/2023/collections2/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/collections/2023/collections2/</guid>
+      <guid>https://example.org/collections/2023/collections2/</guid>
       <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write blogs and tutorials and cheatsheets.&lt;/li&gt;&#xA;&lt;li&gt;Speak at meetups and conferences.&lt;/li&gt;&#xA;&lt;li&gt;Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.&lt;/li&gt;&#xA;&lt;li&gt;Make Youtube videos or Twitch streams.&lt;/li&gt;&#xA;&lt;li&gt;Start a newsletter.&lt;/li&gt;&#xA;&lt;li&gt;Draw cartoons. &lt;br&gt;&#xA;&lt;a href=&#34;https://www.swyx.io/learn-in-public/&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;make-free-stuff&#34;&gt;Make Free Stuff&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The best growth hack is still to build something people enjoy, then attaching no strings to it. You’d be surprised how far that can get you.&lt;br&gt;&#xA;Make free stuff! The web is still for everyone.&lt;br&gt;&#xA;&lt;a href=&#34;https://mxb.dev/blog/make-free-stuff/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collections No.3</title>
-      <link>http://localhost:52112/collections/2023/collections3/</link>
+      <link>https://example.org/collections/2023/collections3/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/collections/2023/collections3/</guid>
+      <guid>https://example.org/collections/2023/collections3/</guid>
       <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write blogs and tutorials and cheatsheets.&lt;/li&gt;&#xA;&lt;li&gt;Speak at meetups and conferences.&lt;/li&gt;&#xA;&lt;li&gt;Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.&lt;/li&gt;&#xA;&lt;li&gt;Make Youtube videos or Twitch streams.&lt;/li&gt;&#xA;&lt;li&gt;Start a newsletter.&lt;/li&gt;&#xA;&lt;li&gt;Draw cartoons. &lt;br&gt;&#xA;&lt;a href=&#34;https://www.swyx.io/learn-in-public/&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;make-free-stuff&#34;&gt;Make Free Stuff&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The best growth hack is still to build something people enjoy, then attaching no strings to it. You’d be surprised how far that can get you.&lt;br&gt;&#xA;Make free stuff! The web is still for everyone.&lt;br&gt;&#xA;&lt;a href=&#34;https://mxb.dev/blog/make-free-stuff/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collections No.4</title>
-      <link>http://localhost:52112/collections/2023/collections4/</link>
+      <link>https://example.org/collections/2023/collections4/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/collections/2023/collections4/</guid>
+      <guid>https://example.org/collections/2023/collections4/</guid>
       <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write blogs and tutorials and cheatsheets.&lt;/li&gt;&#xA;&lt;li&gt;Speak at meetups and conferences.&lt;/li&gt;&#xA;&lt;li&gt;Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.&lt;/li&gt;&#xA;&lt;li&gt;Make Youtube videos or Twitch streams.&lt;/li&gt;&#xA;&lt;li&gt;Start a newsletter.&lt;/li&gt;&#xA;&lt;li&gt;Draw cartoons. &lt;br&gt;&#xA;&lt;a href=&#34;https://www.swyx.io/learn-in-public/&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;make-free-stuff&#34;&gt;Make Free Stuff&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The best growth hack is still to build something people enjoy, then attaching no strings to it. You’d be surprised how far that can get you.&lt;br&gt;&#xA;Make free stuff! The web is still for everyone.&lt;br&gt;&#xA;&lt;a href=&#34;https://mxb.dev/blog/make-free-stuff/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collections No.5</title>
-      <link>http://localhost:52112/collections/2023/collections5/</link>
+      <link>https://example.org/collections/2023/collections5/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/collections/2023/collections5/</guid>
+      <guid>https://example.org/collections/2023/collections5/</guid>
       <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write blogs and tutorials and cheatsheets.&lt;/li&gt;&#xA;&lt;li&gt;Speak at meetups and conferences.&lt;/li&gt;&#xA;&lt;li&gt;Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.&lt;/li&gt;&#xA;&lt;li&gt;Make Youtube videos or Twitch streams.&lt;/li&gt;&#xA;&lt;li&gt;Start a newsletter.&lt;/li&gt;&#xA;&lt;li&gt;Draw cartoons. &lt;br&gt;&#xA;&lt;a href=&#34;https://www.swyx.io/learn-in-public/&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;make-free-stuff&#34;&gt;Make Free Stuff&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The best growth hack is still to build something people enjoy, then attaching no strings to it. You’d be surprised how far that can get you.&lt;br&gt;&#xA;Make free stuff! The web is still for everyone.&lt;br&gt;&#xA;&lt;a href=&#34;https://mxb.dev/blog/make-free-stuff/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collections No.6</title>
-      <link>http://localhost:52112/collections/2023/collections6/</link>
+      <link>https://example.org/collections/2023/collections6/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/collections/2023/collections6/</guid>
+      <guid>https://example.org/collections/2023/collections6/</guid>
       <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write blogs and tutorials and cheatsheets.&lt;/li&gt;&#xA;&lt;li&gt;Speak at meetups and conferences.&lt;/li&gt;&#xA;&lt;li&gt;Ask and answer things on Stackoverflow or Reddit. Avoid the walled gardens like Slack and Discord, they’re not public.&lt;/li&gt;&#xA;&lt;li&gt;Make Youtube videos or Twitch streams.&lt;/li&gt;&#xA;&lt;li&gt;Start a newsletter.&lt;/li&gt;&#xA;&lt;li&gt;Draw cartoons. &lt;br&gt;&#xA;&lt;a href=&#34;https://www.swyx.io/learn-in-public/&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;make-free-stuff&#34;&gt;Make Free Stuff&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The best growth hack is still to build something people enjoy, then attaching no strings to it. You’d be surprised how far that can get you.&lt;br&gt;&#xA;Make free stuff! The web is still for everyone.&lt;br&gt;&#xA;&lt;a href=&#34;https://mxb.dev/blog/make-free-stuff/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to use this Hugo theme ?</title>
-      <link>http://localhost:52112/post/2020/jan/use-this-theme/</link>
+      <link>https://example.org/post/2020/jan/use-this-theme/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/post/2020/jan/use-this-theme/</guid>
+      <guid>https://example.org/post/2020/jan/use-this-theme/</guid>
       <description>&lt;p&gt;After downloding the theme, uzip the file and go to the &amp;rsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme.&#xA;To check the website you can run the below command,&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In the command prompt you can see that your website has started to build and it will normally available at &amp;lsquo;http://localhost:1313/&amp;rsquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Build a Hugo Blog</title>
-      <link>http://localhost:52112/post/2020/jan/build-hugo-blog/</link>
+      <link>https://example.org/post/2020/jan/build-hugo-blog/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/post/2020/jan/build-hugo-blog/</guid>
+      <guid>https://example.org/post/2020/jan/build-hugo-blog/</guid>
       <description>&lt;h3 id=&#34;hugo&#34;&gt;Hugo?&lt;/h3&gt;&#xA;&lt;p&gt;It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.&lt;/p&gt;&#xA;&lt;p&gt;First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note 1</title>
-      <link>http://localhost:52112/notes/2020/change/</link>
+      <link>https://example.org/notes/2020/change/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/notes/2020/change/</guid>
+      <guid>https://example.org/notes/2020/change/</guid>
       <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note 2</title>
-      <link>http://localhost:52112/notes/2020/change2/</link>
+      <link>https://example.org/notes/2020/change2/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/notes/2020/change2/</guid>
+      <guid>https://example.org/notes/2020/change2/</guid>
       <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note 3</title>
-      <link>http://localhost:52112/notes/2020/change3/</link>
+      <link>https://example.org/notes/2020/change3/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/notes/2020/change3/</guid>
+      <guid>https://example.org/notes/2020/change3/</guid>
       <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Markdown ?</title>
-      <link>http://localhost:52112/post/2020/jan/markdown/</link>
+      <link>https://example.org/post/2020/jan/markdown/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/post/2020/jan/markdown/</guid>
+      <guid>https://example.org/post/2020/jan/markdown/</guid>
       <description>&lt;p&gt;&lt;strong&gt;What is Markdown?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.&lt;/p&gt;&#xA;&lt;p&gt;Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.&lt;/p&gt;&#xA;&lt;p&gt;Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Basic Syntax</title>
-      <link>http://localhost:52112/post/2020/jan/syntax/</link>
+      <link>https://example.org/post/2020/jan/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/post/2020/jan/syntax/</guid>
+      <guid>https://example.org/post/2020/jan/syntax/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Headings&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.g., ### My Header).&#xA; &lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-level-1&#34;&gt;Heading level 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-level-2&#34;&gt;Heading level 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-level-3&#34;&gt;Heading level 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-level-4&#34;&gt;Heading level 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-level-5&#34;&gt;Heading level 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-level-6&#34;&gt;Heading level 6&lt;/h6&gt;&#xA;&lt;p&gt;&lt;strong&gt;Paragraphs&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To create paragraphs, use a blank line to separate one or more lines of text.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:52112/post/2020/jan/rich-content/</link>
+      <link>https://example.org/post/2020/jan/rich-content/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/post/2020/jan/rich-content/</guid>
+      <guid>https://example.org/post/2020/jan/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube privacy enhanced shortcode&lt;/h2&gt;&#xA;&lt;p&gt;The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;YouTube URL:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://www.youtube.com/watch?v=3qHkcs3kG44&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Shortcode:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; youtube 3qHkcs3kG44 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Rendered output:&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3qHkcs3kG44?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Host in Netlify</title>
-      <link>http://localhost:52112/post/2020/jan/netlify-conf/</link>
+      <link>https://example.org/post/2020/jan/netlify-conf/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/post/2020/jan/netlify-conf/</guid>
+      <guid>https://example.org/post/2020/jan/netlify-conf/</guid>
       <description>&lt;p&gt;You can host your static website wth zero cost in &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Add the below netlify.toml in the root folder.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;[build]&#xA;publish = &amp;quot;public&amp;quot;&#xA;command = &amp;quot;hugo --gc --minify&amp;quot;&#xA;&#xA;[context.production.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;HUGO_ENV = &amp;quot;production&amp;quot;&#xA;HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot;&#xA;&#xA;[context.split1]&#xA;command = &amp;quot;hugo --gc --minify --enableGitInfo&amp;quot;&#xA;&#xA;[context.split1.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;HUGO_ENV = &amp;quot;production&amp;quot;&#xA;&#xA;[context.deploy-preview]&#xA;command = &amp;quot;hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL&amp;quot;&#xA;&#xA;[context.deploy-preview.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;&#xA;[context.branch-deploy]&#xA;command = &amp;quot;hugo -b $DEPLOY_PRIME_URL&amp;quot;&#xA;&#xA;[context.branch-deploy.environment]&#xA;HUGO_VERSION = &amp;quot;0.82.0&amp;quot;&#xA;&#xA;[context.next.environment]&#xA;HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;And you can upload the public folder directly to Netlify or integrate your GitHub accout with Netlify to host your website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who am I ?!</title>
-      <link>http://localhost:52112/post/2020/jan/who-am-i/</link>
+      <link>https://example.org/post/2020/jan/who-am-i/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52112/post/2020/jan/who-am-i/</guid>
+      <guid>https://example.org/post/2020/jan/who-am-i/</guid>
       <description>&lt;p&gt;Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&lt;/p&gt;&#xA;&lt;p&gt;As a child, the answer to this question was simple. Say my name to the question of who. Aha ..! Simple and beautiful. In that answer, parents and siblings in adolescence. I thought to myself that the answer was too clear.&lt;/p&gt;&#xA;&lt;p&gt;When I started asking myself this question at a young age when I was beginning to recognize many things, I began to feel that the answer was becoming less clear. Who am I ?! If you ask me who I am. Anyone else. Still no answer to the question. Who am I?&lt;/p&gt;</description>
     </item>
   </channel>
