@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<title>Collections - My New Hugo Site</title>
+<title>Collections - Lightbi</title>
 <meta name="description" content="Links from the Web community, curated by Bino.">
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
-    "name": "My New Hugo Site",
+    "name": "Lightbi",
     
-    "url": "https:\/\/example.org\/"
+    "url": "http:\/\/localhost:1313\/"
 }
 </script><script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",
   "name": "",
-  "url": "https:\/\/example.org\/"
+  "url": "http:\/\/localhost:1313\/"
   
   
   
@@ -32,17 +32,17 @@
 
 <meta property="og:title" content="Collections" />
 <meta property="og:description" content="Links from the Web community, curated by Bino.">
-<meta property="og:url" content="https://example.org/collections/" />
+<meta property="og:url" content="http://localhost:1313/collections/" />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="My New Hugo Site" />
-<link rel="apple-touch-icon" sizes="180x180" href=" https://example.org/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://example.org/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://example.org/favicon/favicon-16x16.png">
+<meta property="og:site_name" content="Lightbi" />
+<link rel="apple-touch-icon" sizes="180x180" href=" http://localhost:1313/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon/favicon-16x16.png">
 
 
 <meta name="generator" content="Hugo 0.134.3">
-<link rel="alternate" href="https://example.org/index.xml" type="application/rss+xml" title="My New Hugo Site">
-<script src="https://example.org/js/dark-mode.js"></script><link rel="stylesheet" href="/style.min.css">
+<link rel="alternate" href="http://localhost:1313/index.xml" type="application/rss+xml" title="Lightbi">
+<script src="http://localhost:1313/js/dark-mode.js"></script><script src="http://localhost:1313/vendor/lunr/lunr.min.js"></script><script src="http://localhost:1313/js/lunr-search.js" data-index="/search.json"></script><link rel="stylesheet" href="/style.min.css">
 
 
 
@@ -60,7 +60,7 @@
       <nav class="navbar navbar-expand-lg navbar-light fixed-top p-0">
         <div class="container">
 
-          <a class="navbar-brand fw-bold" href="https://example.org/">My New Hugo Site</a>
+          <a class="navbar-brand fw-bold" href="http://localhost:1313/">Lightbi</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -68,6 +68,66 @@
 
           <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav mb-2 mb-lg-0 align-items-baseline">
+              
+              
+
+              <li class="nav-item">
+                
+                
+                
+                
+                
+
+                <a class="nav-link " title="Blog"
+                  href="/"> Blog</a>
+              </li>
+
+              
+              
+              
+
+              <li class="nav-item">
+                
+                
+                
+                
+                
+
+                <a class="nav-link  active " title="Collections"
+                  href="/collections/"> Collections</a>
+              </li>
+
+              
+              
+              
+
+              <li class="nav-item">
+                
+                
+                
+                
+                
+
+                <a class="nav-link " title="About"
+                  href="/about/"> About</a>
+              </li>
+
+              
+              
+              
+
+              <li class="nav-item">
+                
+                
+                
+                
+                
+
+                <a class="nav-link " title=""
+                  href="/"> </a>
+              </li>
+
+              
               
 
 
@@ -81,8 +141,44 @@
 
               
               
+              <li class="nav-item search-item">
+                <form id="search" class="search" role="search">
+                  <label for="search-input" class="bi bi-search search-icon"></label>
+                  <input type="search" id="search-input" class="search-input">
+                </form>
+              </li>
+              
             </ul>
 
+            
+            <template id="search-heading" hidden data-results-none=""
+              data-results-one=""
+              data-results-many="">
+              <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 ">
+                  <h1 id="search-title" class="search-title"></h1>
+                </div>
+              </div>
+            </template>
+
+            <template id="search-result" hidden>
+              <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 ">
+                  <article class="content post">
+                    <h2><a class="summary-title-link"></a></h2>
+                    <div class="post-entry"></div>
+                    <div class="read-more-section">
+                      <h6 class="text-muted link-underline">
+                        <a class="read-more-link">
+                          Read More
+                          <i class="bi bi-arrow-right"></i>
+                        </a>
+                      </h6>
+                    </div>
+                  </article>
+                </div>
+              </div>
+            </template>
             
           </div>
         </div>
@@ -154,7 +250,7 @@
 
     
     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-4">
-    <a href="https://example.org/collections/2023/collections/">
+    <a href="http://localhost:1313/collections/2023/collections/">
         <div class="card single-post-card h-100 shadow-effect border">
             
             <img src="/img/collections/collections1_hu7609418982563609362.jpg" alt="/img/collections/collections1.jpg"
@@ -172,7 +268,7 @@
   
   
 
-  January 1, 2023
+  01 January 2023
 
   
 
@@ -203,7 +299,7 @@
 
     
     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-4">
-    <a href="https://example.org/collections/2023/collections2/">
+    <a href="http://localhost:1313/collections/2023/collections2/">
         <div class="card single-post-card h-100 shadow-effect border">
             
             <img src="/img/collections/collections2_hu13751329851546478330.jpg" alt="/img/collections/collections2.jpg"
@@ -221,7 +317,7 @@
   
   
 
-  January 1, 2023
+  01 January 2023
 
   
 
@@ -252,7 +348,7 @@
 
     
     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-4">
-    <a href="https://example.org/collections/2023/collections3/">
+    <a href="http://localhost:1313/collections/2023/collections3/">
         <div class="card single-post-card h-100 shadow-effect border">
             
             <img src="/img/collections/collections3_hu7469286579179067431.jpg" alt="/img/collections/collections3.jpg"
@@ -270,7 +366,7 @@
   
   
 
-  January 1, 2023
+  01 January 2023
 
   
 
@@ -301,7 +397,7 @@
 
     
     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-4">
-    <a href="https://example.org/collections/2023/collections4/">
+    <a href="http://localhost:1313/collections/2023/collections4/">
         <div class="card single-post-card h-100 shadow-effect border">
             
             <img src="/img/collections/collections4_hu18417666712553816731.jpg" alt="/img/collections/collections4.jpg"
@@ -319,7 +415,7 @@
   
   
 
-  January 1, 2023
+  01 January 2023
 
   
 
@@ -350,7 +446,7 @@
 
     
     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-4">
-    <a href="https://example.org/collections/2023/collections5/">
+    <a href="http://localhost:1313/collections/2023/collections5/">
         <div class="card single-post-card h-100 shadow-effect border">
             
             <img src="/img/collections/collections5_hu17750417104811322703.jpg" alt="/img/collections/collections5.jpg"
@@ -368,7 +464,7 @@
   
   
 
-  January 1, 2023
+  01 January 2023
 
   
 
@@ -399,7 +495,7 @@
 
     
     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-4">
-    <a href="https://example.org/collections/2023/collections6/">
+    <a href="http://localhost:1313/collections/2023/collections6/">
         <div class="card single-post-card h-100 shadow-effect border">
             
             <img src="/img/collections/collections6_hu8094119934463784167.jpg" alt="/img/collections/collections6.jpg"
@@ -417,7 +513,7 @@
   
   
 
-  January 1, 2023
+  01 January 2023
 
   
 
@@ -496,7 +592,7 @@
 
           
           &nbsp;&bull;&nbsp;
-          <a href="https://example.org/">My New Hugo Site</a>
+          <a href="http://localhost:1313/">Lightbi</a>
           
         </p>
         
@@ -507,7 +603,10 @@
       </div>
     </div>
   </div>
-</footer><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</footer><script src="http://localhost:1313/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="http://localhost:1313/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> $(document).ready(function () { $("pre.chroma").css("padding", "0"); }); </script>
 
     
   </body>
