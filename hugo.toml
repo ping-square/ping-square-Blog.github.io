@@ -1,4 +1,4 @@
-baseURL = "https://blog.ping-square.com/"
+baseURL = "https://ping-square.github.io/ping-square-Blog.github.io/"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"
